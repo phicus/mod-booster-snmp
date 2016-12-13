@@ -1,0 +1,20 @@
+{
+  "name": "mod-booster-snmp",
+  "types": ["module"],
+  "version": "0.1.0",
+  "homepage": "http://github.com/savoirfairelinux/mod-booster-snmp",
+  "author": "savoirfairelinux",
+  "description": "GPON provisioning krill module",
+  "contributors": [
+  {
+    "name": "savoirfairelinux",
+    "email": "savoirfairelinux@savoirfairelinux.com"
+  }
+  ],
+  "repository": "http://github.com/savoirfairelinux/mod-booster-snmp",
+  "keywords": ["module", "snmp"],
+  "dependencies": {
+      "shinken": ">=1.4"
+  },
+  "license": "AGPL"
+}
